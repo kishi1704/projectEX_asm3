@@ -1,0 +1,31 @@
+.container-xxl {
+  padding-top: 80px;
+}
+
+.goal .card,
+.team .card,
+.team .list-group li,
+.goal .list-group li,
+.timeline .card,
+.timeline .list-group li,
+.scopes .card,
+.scopes .list-group li,
+.primary .card,
+.primary .list-group li {
+  background-color: #e6fcf5;
+}
+
+.team .list-group li,
+.scopes .list-group li,
+.primary .list-group li {
+  border: none;
+}
+
+.timeline .list-group li {
+  border-bottom: 1.2px dashed #3bc9db;
+}
+
+.team .card,
+.goal .card {
+  align-items: stretch;
+}
