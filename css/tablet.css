@@ -2,4 +2,8 @@
   .box {
     padding: 0;
   }
+  
+   .card-group > .card {
+    margin-bottom: 0;
+  }
 }
