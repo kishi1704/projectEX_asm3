@@ -25,7 +25,3 @@
   border-bottom: 1.2px dashed #3bc9db;
 }
 
-.team .card,
-.goal .card {
-  align-items: stretch;
-}
