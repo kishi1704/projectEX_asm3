@@ -1,4 +1,9 @@
 ```
 projectEX_asm3
-├─ style.css
-├─ index.html
+├─ css
+│  ├─ tablet.css
+│  └─ laptop.css
+│  └─ mobile.css
+└─ index.html
+
+```
